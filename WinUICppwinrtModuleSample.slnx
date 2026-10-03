@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WinUICppwinrtModuleSample/WinUICppwinrtModuleSample.vcxproj" Id="7e55e78f-1d51-4bbc-b91c-14eb0af4c7d8">
+    <Deploy />
+  </Project>
+</Solution>
