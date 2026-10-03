@@ -1,4 +1,4 @@
-namespace WinUICppwinrtModuleSample
+﻿namespace WinUICppwinrtModuleSample
 {
     [default_interface]
     runtimeclass MainWindow : Microsoft.UI.Xaml.Window
