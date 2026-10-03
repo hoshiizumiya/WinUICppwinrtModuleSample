@@ -1,4 +1,6 @@
-#include "pch.h"
+﻿#include <windows.h>
+#define WINRT_IMPORT_MODULE
+
 #include "App.xaml.h"
 #include "MainWindow.xaml.h"
 
