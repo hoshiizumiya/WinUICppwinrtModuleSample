@@ -188,6 +188,6 @@
     <PackageReference Include="Microsoft.WindowsAppSDK.Runtime" Version="2.5.1" />
     <PackageReference Include="Microsoft.WindowsAppSDK.Search" Version="2.5.5" />
     <PackageReference Include="Microsoft.WindowsAppSDK.Widgets" Version="2.0.5" />
-    <PackageReference Include="Microsoft.WindowsAppSDK.WinUI" Version="2.3.9" />
+    <PackageReference Include="Microsoft.WindowsAppSDK.WinUI" Version="3.0.0-dev" />
   </ItemGroup>
 </Project>
