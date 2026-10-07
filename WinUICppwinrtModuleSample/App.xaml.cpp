@@ -1,6 +1,9 @@
 ﻿#include <windows.h>
 #define WINRT_IMPORT_MODULE
 
+import WinUICppwinrtModuleSample.Application_Xaml.App;
+import WinUICppwinrtModuleSample.Application_Xaml.MainWindow;
+
 #include "App.xaml.h"
 #include "MainWindow.xaml.h"
 
