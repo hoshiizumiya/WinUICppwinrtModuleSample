@@ -1,6 +1,5 @@
-#pragma once
+﻿#pragma once
 
-#include "App.xaml.g.h"
 
 namespace winrt::WinUICppwinrtModuleSample::implementation
 {
